@@ -18,6 +18,7 @@ This is a platform that allows users to catch up on their favorite TV shows. Use
 - ORM
 
 ## Authors
-- [Kenny](xyz@upc.edu.pe)
-
+- [Dalila Victoria Torres Sanchez](u20221f734@upc.edu.pe)
+- [Rafael Alberto Cuya Villegas](u201913495@upc.edu.pe)
+- [Edery Renzo Abanto Vicente](u201822832@upc.edu.pe)
 
